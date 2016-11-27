@@ -5,6 +5,5 @@ export default function(state = null, action) { // if state is undefined, set it
     case 'BOOK_SELECTED':
       return action.payload;
   }
-
   return state;
 }
