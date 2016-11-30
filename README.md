@@ -2,7 +2,7 @@
 
 Simple app built using React and Redux; renders book detail once a book is selected.
 
-# Notes
+## Notes
 
 reducer: a function that returns a piece of application state
 
